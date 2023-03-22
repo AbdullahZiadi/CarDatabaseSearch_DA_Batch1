@@ -5,8 +5,8 @@ It's a try to searching car database in order to answer some simple questions
 we made this project  as apart of training Data analysis using python  in Aiapproach club.
 
 # Objective
-1- pass the "Data analysis Training".
-2- understand the Status of the cars aviable.
+1- pass the "Data analysis Training".\n
+2- understand the Status of the cars aviable.\n
 3- understand prices related to cars status.
 4- knowing what models are flooding the market with used cars.
 
